@@ -1,0 +1,58 @@
+
+          body{
+              background-color: #F8ECD1;
+            font-size: 35px;
+
+
+          }
+/*body:hover{
+              background-color:#F9CEEE;
+
+          }*/
+          hr {
+              /*background-color: white;*//*no use*/
+              border-style: dotted none none;/*top,left and right , bottom;*/
+              border-color: grey;
+              border-width:6px;
+              height:0px;
+              width:5%;/* 30 percent of entire web page */
+              /*direct size bhi specify kr sakte hai , like 30 ppx but fir usmai sure nhi ki phone mai kaisi dikhe gi and laptop mai kaisi;*/
+          }
+          img
+          {
+              height:600px;
+          }
+#ppimg
+{
+    border-radius: 500%;
+}
+    h1
+{
+    color:#66BFBF;
+}
+#lol
+{
+    color:#313552;
+}h4
+{
+    color:#B20600;
+}
+/*to edit a particular thing  DD A CLASS THERE AND THEN USE CLASS NAME HERE INSTEASD OF A TAG , JUST STARTING WITH A .*/
+   input{
+       align-content: center;
+       background-color:aqua;
+                   font-size: 40px;
+
+}   input:hover{
+                     background-color:#F9CEEE;
+
+
+}
+textarea
+{
+    align-content: center;
+    background-color: aqua;
+                font-size: 40px;
+
+}
+/*class mai grp of tags ko kr sakte hai , but id mai ek hi tag ko specify kr sakte hai*/
